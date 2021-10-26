@@ -52,3 +52,4 @@ numberButtons.forEach(button => {
         calculator.updateDisplay()
     })
 })
+
